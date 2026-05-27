@@ -1,0 +1,1 @@
+apexconverter.sh inputDIR outdir
